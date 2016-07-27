@@ -22,7 +22,7 @@
 <html lang="ja">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Kagoyumeトップページ</title>
+    <title>トップページ</title>
 </head>
 <body>
     <h1>カゴユメ!</h1>
